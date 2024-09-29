@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="290.57" height="226.74" viewBox="0 0 290.57 226.74">
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect x="94.49" y="2.3" width="13.78" height="12.54" style="fill: #aea2a0; stroke-width: 0px;"/>
+      <rect x="28.66" y="17.55" width="62.95" height="70.11" style="fill: #b4ada7; stroke-width: 0px;"/>
+      <path d="M94.07,96.87H26.19c-1.46,0-2.65-1.19-2.65-2.65v-3.91c0-1.46,1.18-2.65,2.65-2.65h67.88c1.46,0,2.65,1.19,2.65,2.65v3.91c0,1.46-1.19,2.65-2.65,2.65" style="fill: #948b8a; stroke-width: 0px;"/>
+      <path d="M260.84,199.73H103.47c-1.75,0-3.17-1.42-3.17-3.17v-96.53c0-1.75,1.42-3.17,3.17-3.17h157.37c1.75,0,3.16,1.42,3.16,3.17v96.53c0,1.75-1.42,3.17-3.16,3.17" style="fill: #7b8188; stroke-width: 0px;"/>
+      <path d="M101.15,202.29H28.83c-1.23,0-2.22-1-2.22-2.22v-103.54c0-1.23,1-2.22,2.22-2.22h72.32c1.23,0,2.22.99,2.22,2.22v103.54c0,1.22-.99,2.22-2.22,2.22" style="fill: #aea2a0; stroke-width: 0px;"/>
+      <polyline points="26.61 94.31 26.61 225.82 0 225.82" style="fill: none; stroke: #babcbe; stroke-linejoin: round; stroke-width: 1.83px;"/>
+      <polyline points="264 96.87 264 225.82 290.57 225.82" style="fill: none; stroke: #babcbe; stroke-linejoin: round; stroke-width: 1.81px;"/>
+      <path d="M94.49,23.43H25.76c-1.23,0-2.22-1-2.22-2.22V3.91c0-1.23,1-2.23,2.22-2.23h68.73c1.23,0,2.22,1,2.22,2.23v17.3c0,1.23-1,2.22-2.22,2.22" style="fill: #948b8a; stroke-width: 0px;"/>
+      <rect x="92.65" y="23.43" width="1.93" height="64.22" style="fill: #7b8188; stroke-width: 0px;"/>
+      <rect x="25.64" y="23.43" width="1.93" height="64.22" style="fill: #7b8188; stroke-width: 0px;"/>
+      <rect x="60.13" y="23.43" width="1.93" height="64.22" style="fill: #7b8188; stroke-width: 0px;"/>
+      <path d="M114.78,17.14h-5.89c-.34,0-.62-.28-.62-.62V.62c0-.34.28-.62.62-.62h5.89c.34,0,.62.28.62.62v15.91c0,.34-.28.62-.62.62" style="fill: #948b8a; stroke-width: 0px;"/>
+      <rect x="115.4" y="2.3" width="3.68" height="12.54" style="fill: #aea2a0; stroke-width: 0px;"/>
+      <path d="M125.59,17.14h-5.89c-.34,0-.62-.28-.62-.62V.62c0-.34.28-.62.62-.62h5.89c.34,0,.62.28.62.62v15.91c0,.34-.27.62-.62.62" style="fill: #948b8a; stroke-width: 0px;"/>
+      <rect x="126.2" y="2.3" width="3.68" height="12.54" style="fill: #aea2a0; stroke-width: 0px;"/>
+      <path d="M233.26,114.35c0,4.67-3.79,8.46-8.46,8.46s-8.46-3.79-8.46-8.46,3.79-8.46,8.46-8.46,8.46,3.79,8.46,8.46Z" style="fill: none; stroke: #211e1e; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.33px;"/>
+      <path d="M236.58,114.35c0,7.04-5.71,12.75-12.75,12.75s-12.74-5.71-12.74-12.75,5.71-12.74,12.74-12.74,12.75,5.71,12.75,12.74" style="fill: #434342; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>

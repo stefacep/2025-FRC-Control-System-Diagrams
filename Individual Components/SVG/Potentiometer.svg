@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="46.8" height="66.81" viewBox="0 0 46.8 66.81">
+  <g id="Main_Layer" data-name="Main Layer">
+    <g>
+      <g>
+        <rect y="17.63" width="46.8" height="49.18" rx="2.05" ry="2.05" transform="translate(46.8 84.43) rotate(180)" style="fill: #17629e; stroke-width: 0px;"/>
+        <path d="M0,57.42v8.2c0,.66.53,1.19,1.19,1.19h44.42c.66,0,1.19-.53,1.19-1.19v-8.2h-5.2v-28.6h5.2v-10c0-.66-.53-1.19-1.19-1.19h-1.55v3.18H2.74v-3.18h-1.55c-.66,0-1.19.53-1.19,1.19v10h5.2v28.6H0Z" style="fill: #1c75bc; stroke-width: 0px;"/>
+        <circle cx="23.29" cy="43.26" r="20.4" style="fill: #808285; stroke-width: 0px;"/>
+        <circle cx="23.29" cy="43.26" r="17.3" style="fill: #a7a9ac; stroke-width: 0px;"/>
+        <circle cx="23.47" cy="43.26" r="11.63" style="fill: #bcbec0; stroke-width: 0px;"/>
+        <rect x="31.49" y="1.94" width="2.5" height="18.87" transform="translate(65.48 22.74) rotate(180)" style="fill: #bcbec0; stroke-width: 0px;"/>
+        <rect x="22.15" y="1.94" width="2.5" height="18.87" transform="translate(46.8 22.74) rotate(180)" style="fill: #bcbec0; stroke-width: 0px;"/>
+        <rect x="12.81" y="1.94" width="2.5" height="18.87" transform="translate(28.12 22.74) rotate(180)" style="fill: #bcbec0; stroke-width: 0px;"/>
+        <path d="M14.05,36.38c-1.42,1.93-2.27,4.3-2.27,6.89,0,6.42,5.21,11.63,11.63,11.63s11.63-5.21,11.63-11.63c0-2.58-.85-4.96-2.27-6.89H14.05Z" style="fill: #d1d3d4; stroke-width: 0px;"/>
+      </g>
+      <rect x="11.69" y="0" width="4.73" height="11.52" rx="2.37" ry="2.37" style="fill: #d1d3d4; stroke-width: 0px;"/>
+      <rect x="21.03" y="0" width="4.73" height="11.52" rx="2.37" ry="2.37" style="fill: #d1d3d4; stroke-width: 0px;"/>
+      <rect x="30.37" y="0" width="4.73" height="11.52" rx="2.37" ry="2.37" style="fill: #d1d3d4; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>
