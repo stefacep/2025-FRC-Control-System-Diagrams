@@ -25,3 +25,9 @@ These and the previous generation diagrams were designed with Team 3161 and WPIL
 Diagram as a whole is Licensed in a [Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)
 
 Logos on some vectors belong to their respective copyright owners
+
+#
+<img src="./PNG/FRCCSD-PR.png"/>
+<img src="./PNG/FRCCSD-RV.png"/>
+<img src="./PNG/FRCCSD-CR.png"/>
+<img src="./PNG/FRCCSD-PS.png"/>
