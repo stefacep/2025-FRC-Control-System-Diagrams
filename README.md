@@ -1,6 +1,6 @@
 # 2025-FRC-Control-System-Diagrams
 
-!{](https://github.com/stefacep/2025-FRC-Control-System-Diagrams/blob/main/frccs3.gif)
+<img src="./frccs3.gif"/>
 
 
 This diagram aims to show how the FRC Control System is wired in various vendor architecitures and comprehensiveness.
