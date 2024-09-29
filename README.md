@@ -3,7 +3,7 @@
 <img src="./frccs3.gif"/>
 
 
-This diagram aims to show how the FRC Control System is wired in various vendor architecitures and comprehensiveness.
+This diagram aims to show how the FRC Control System is wired in various vendor architecitures and comprehensiveness levels.
 
 This New Diagram System was designed with the new VH 109 Radio in mind, and it is fundamentally the same as the 2022 FRC Control System Diagram, but with a unified visual design system and numerous usability improvements (Read More about these changes at: https://sacepcion.ca/graphic-design/frc-electronics-diagrams/) and two new diagrams that center on Pneumatics, and Basic, Introductory (KOP) Control System Hardware Implementation)
 
