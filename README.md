@@ -20,7 +20,7 @@ Also print in colour, recommended 170 GSM or thicker paper, no bleed.
 
 
 #
-These and the previous generation diagrams were designed with Team 3161 and WPILib Docs.
+These and the previous generation diagrams were designed with Team 3161.
 
 Diagram as a whole is Licensed in a [Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)
 
