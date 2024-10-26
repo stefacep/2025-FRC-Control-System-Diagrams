@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="77.07" height="210.8" viewBox="0 0 77.07 210.8">
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <line x1="38.76" y1="40.1" x2="38.71" y2="12.5" style="fill: none; stroke: #434342; stroke-linecap: round; stroke-linejoin: round; stroke-width: 25px;"/>
+      <path d="M11.71,112.37h53.66c6.46,0,11.7,5.24,11.7,11.71v71.65s-77.07,0-77.07,0v-71.65c0-6.47,5.24-11.71,11.71-11.71" style="fill: #333; stroke-width: 0px;"/>
+      <path d="M63.1,158.16c0-14.48-11-26.22-24.56-26.22-13.57,0-24.57,11.74-24.57,26.22,0,14.48,11,26.22,24.57,26.22,13.56,0,24.56-11.74,24.56-26.22" style="fill: #211e1e; stroke-width: 0px;"/>
+      <path d="M35.92,136.04h4.32c8.27,0,14.96,6.7,14.96,14.96v14.3c0,8.26-6.7,14.96-14.96,14.96h-4.32c-8.27,0-14.96-6.7-14.96-14.96v-14.3c0-8.27,6.7-14.96,14.96-14.96" style="fill: #fff; stroke-width: 0px;"/>
+      <path d="M36.15,138.45h3.85c7.36,0,13.34,5.97,13.34,13.34v12.74c0,7.37-5.97,13.34-13.34,13.34h-3.85c-7.36,0-13.34-5.97-13.34-13.34v-12.74c0-7.37,5.97-13.34,13.34-13.34" style="fill: #211e1e; stroke-width: 0px;"/>
+      <rect x="22.82" y="157.4" width="30.52" height="2.58" style="fill: #fff; stroke-width: 0px;"/>
+      <rect x="0" y="195.73" width="77.07" height="3.11" style="fill: #808083; stroke-width: 0px;"/>
+      <polygon points="77.07 198.83 57.42 209.03 17.74 209.03 1.11 198.83 77.07 198.83" style="fill: #5b5a5d; stroke-width: 0px;"/>
+      <rect x="33.03" y="209.03" width="11.75" height="1.78" style="fill: #211e1e; stroke-width: 0px;"/>
+      <rect x="17.74" y="40.1" width="40.79" height="72.27" style="fill: #211e1e; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>
