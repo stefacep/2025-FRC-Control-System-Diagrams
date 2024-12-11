@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="36in" height="24in" viewBox="0 0 2592 1728">
   <g id="Main_Layer" data-name="Main Layer">
-    <path d="M1614.81,84.6v642.94c0,18.89-15.31,34.2-34.2,34.2h-234.11c-6.96,0-12.6,5.64-12.6,12.6v653.74c0,6.96,5.64,12.6,12.6,12.6h1160.9c6.96,0,12.6-5.64,12.6-12.6V84.6c0-6.96-5.64-12.6-12.6-12.6h-879.99c-6.96,0-12.6,5.64-12.6,12.6Z" style="fill: none; opacity: .5; stroke: #414142; stroke-dasharray: 0 9; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    <g style="opacity: .5;">
+      <path d="M1614.81,84.6v642.94c0,18.89-15.31,34.2-34.2,34.2h-234.11c-6.96,0-12.6,5.64-12.6,12.6v653.74c0,6.96,5.64,12.6,12.6,12.6h1160.9c6.96,0,12.6-5.64,12.6-12.6V84.6c0-6.96-5.64-12.6-12.6-12.6h-879.99c-6.96,0-12.6,5.64-12.6,12.6Z" style="fill: none; stroke: #414142; stroke-dasharray: 0 0 8.99 8.99; stroke-miterlimit: 10; stroke-width: 4px;"/>
+    </g>
     <rect x="462" y="1512.28" width="912.22" height="180" rx="10.8" ry="10.8" style="fill: none; stroke: #414042; stroke-miterlimit: 10; stroke-width: 4px;"/>
     <rect x="36" y="33.86" width="2520" height="1440" rx="10.8" ry="10.8" style="fill: none; stroke: #414042; stroke-miterlimit: 10; stroke-width: 4px;"/>
     <path d="M955.87,1630.35c-3.59,0-6.5-2.53-6.5-5.65v-46.91c0-3.12,2.91-5.65,6.5-5.65s6.5,2.53,6.5,5.65v46.91c0,3.12-2.91,5.65-6.5,5.65Z" style="fill: #b178b3; stroke-width: 0px;"/>
